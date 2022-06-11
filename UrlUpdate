@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/bruno1677/CONECTA4G/23899af177425d15a48f7c6e7025ded5b769e4f9/UrlUpdate",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
@@ -48,7 +48,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR BR FREE 1",
+      "Name": "SERVIDOR BRA FREE",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "br3.brunovpnnet.tk",
