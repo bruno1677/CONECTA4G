@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.2.1
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/bruno1677/CONECTA4G/main/UrlUpdate",
   "Sms": "https://bitbin.it/uQY1kjPZ/raw/",
@@ -26,7 +26,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR BR PREMIUM 1",
+      "Name": "SERVIDOR BRA PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.brunovpnnet.tk",
